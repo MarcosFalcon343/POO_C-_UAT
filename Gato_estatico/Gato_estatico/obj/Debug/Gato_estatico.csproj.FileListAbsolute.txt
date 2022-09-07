@@ -1,0 +1,7 @@
+C:\Users\Marcos\source\repos\Gato_estatico\Gato_estatico\obj\Debug\Gato_estatico.csproj.AssemblyReference.cache
+C:\Users\Marcos\source\repos\Gato_estatico\Gato_estatico\obj\Debug\Gato_estatico.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\source\repos\Gato_estatico\Gato_estatico\bin\Debug\Gato_estatico.exe.config
+C:\Users\Marcos\source\repos\Gato_estatico\Gato_estatico\bin\Debug\Gato_estatico.exe
+C:\Users\Marcos\source\repos\Gato_estatico\Gato_estatico\bin\Debug\Gato_estatico.pdb
+C:\Users\Marcos\source\repos\Gato_estatico\Gato_estatico\obj\Debug\Gato_estatico.exe
+C:\Users\Marcos\source\repos\Gato_estatico\Gato_estatico\obj\Debug\Gato_estatico.pdb
